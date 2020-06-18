@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "717303728187",
+    "firebase_url": "https://projeto-integrador-final.firebaseio.com",
+    "project_id": "projeto-integrador-final",
+    "storage_bucket": "projeto-integrador-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717303728187:android:c486daa431665b6d93741e",
+        "android_client_info": {
+          "package_name": "br.com.banhos.projeto_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717303728187-k7uhcef0kj05s2uthbve5q1erkcrqisf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.banhos.projeto_final",
+            "certificate_hash": "87c934170da8b1b35b534ff58a7b3df54ae8eb3e"
+          }
+        },
+        {
+          "client_id": "717303728187-iq9tevb3endbrpu3pghlilf90ncqddeg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5VJM7Gcd2xacwTOQC_hJcM5H_0ThPIOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717303728187-iq9tevb3endbrpu3pghlilf90ncqddeg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
